@@ -1,0 +1,7 @@
+*.o
+*.log
+*.P
+*/.deps/*
+*.cache/*
+src/ntripcaster
+
